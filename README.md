@@ -38,13 +38,6 @@ To train **PICNet** , use the following command:
 python task.py
 ```
 
-### 🔧 **Training Arguments**:
-
-- `--epoch`: Number of training epochs
-- `--lr`: Learning rate
-- `--batchsize`: Batch size
-- `--dataset`: Dataset name
-
 ---
 
 ## 📬 **Contact**

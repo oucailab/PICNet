@@ -44,7 +44,7 @@ python task.py
 
 If you have any questions, feel free to contact us via Email:  
 📧 Feng Gao: gaofeng@ouc.edu.cn  
-📧 Sheng Liu: jinxuepeng@stu.ouc.edu.cn   
+📧 Sheng Liu: ls1290751536@163.com
 📧 Chuanzheng Gong:  gongchuanzheng@stu.ouc.edu.com
 
 We hope **PICNet** helps your research! ⭐ If you find our work useful, please cite:

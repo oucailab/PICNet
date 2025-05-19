@@ -51,7 +51,7 @@ python train.py --epoch 40 --lr 1e-4 --batchsize 128 --dataset Berlin
 
 If you have any questions, feel free to contact us via Email:  
 📧 Feng Gao: gaofeng@ouc.edu.cn  
-📧 Sheng Liu: jinxuepeng@stu.ouc.edu.cn
+📧 Sheng Liu: jinxuepeng@stu.ouc.edu.cn   
 📧 Chuanzheng Gong:  2350967118@qq.com
 
 We hope **PICNet** helps your research! ⭐ If you find our work useful, please cite:

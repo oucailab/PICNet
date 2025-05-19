@@ -32,10 +32,10 @@ The dataset used in our experiments can be accessed from the following link:
 
 ## 🏋️‍♂️ **Usage: Training PICNet**
 
-To train **PICNet** on the **Berlin** dataset, use the following command:
+To train **PICNet** , use the following command:
 
 ```bash
-python train.py --epoch 40 --lr 1e-4 --batchsize 128 --dataset Berlin
+python task.py
 ```
 
 ### 🔧 **Training Arguments**:
@@ -52,7 +52,7 @@ python train.py --epoch 40 --lr 1e-4 --batchsize 128 --dataset Berlin
 If you have any questions, feel free to contact us via Email:  
 📧 Feng Gao: gaofeng@ouc.edu.cn  
 📧 Sheng Liu: jinxuepeng@stu.ouc.edu.cn   
-📧 Chuanzheng Gong:  2350967118@qq.com
+📧 Chuanzheng Gong:  gongchuanzheng@stu.ouc.edu.com
 
 We hope **PICNet** helps your research! ⭐ If you find our work useful, please cite:
 

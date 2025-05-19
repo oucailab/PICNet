@@ -1,10 +1,8 @@
 # 🚀 Prototype-Based Information Compensation Network for Multi-Source Remote Sensing Data Classification, IEEE TGRS 2025  
 
-
-
 [![IEEE TGRS](https://img.shields.io/badge/IEEE-TGRS-blue)](https://ieeexplore.ieee.org/document/11002550/)  [![arXiv](https://img.shields.io/badge/arXiv-2505.04003-b31b1b)](https://arxiv.org/abs/2505.04003) 
 
----
+
 
 ## 📌 **Introduction**
 
@@ -14,6 +12,7 @@ This repository contains the official implementation of our paper:
 Prototype-based Information Compensation Network ( **PICNet** ) is designed for land cover classification based on HSI and SAR/LiDAR data. Specifically, we first design a **frequency interaction module** to enhance the inter-frequency coupling in multi-source feature extraction. The multi-source features are first decoupled into high- and low-frequency components. Then, these features are recoupled to achieve efficient inter-frequency communication. Afterward, we design a **prototype-based information compensation module** to model the global multi-source complementary information. Two sets of learnable modality prototypes are introduced to represent the global modality information of multi-source data.
 
 
+---
 
 ### 🔍 **Key Features**
 
